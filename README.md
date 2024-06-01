@@ -20,8 +20,7 @@
 
 📫 Contacto:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fiamma-muscari/)
-[![Twitter](https://img.shields.io/badge/Twitter-1877F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/__fiamy/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-consterla-diaz/)
 [![E-Mail](https://img.shields.io/badge/Email-006aff?style=for-the-badge&logo=maildotru&logoColor=white&color=red)](mailto:alonso.consterla.d@gmail.com)
 
 
