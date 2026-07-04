@@ -35,5 +35,5 @@ Actualmente trabajo principalmente con tecnologías Microsoft, desarrollando apl
 ### 📊 Lenguajes más utilizados
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brChecho&layout=compact&theme=tokyonight" />
 </p>
